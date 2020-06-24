@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">pc2</string>
+    <string name="txt_load">Cargando...</string>
+    <string name="txt_name">
+        Elaborado por: Catherine Pamela Salguero Casani \n
+        Docente: Wilder Nina Choquehuayta \n
+        Universidad Tecnológica del Perú (UTP)
+    </string>
+
 </resources>
